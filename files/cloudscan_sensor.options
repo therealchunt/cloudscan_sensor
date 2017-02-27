@@ -1,0 +1,12 @@
+fortify_license_path=/opt/app/fortify/fortify.license
+installdir=/opt/app/fortify/16.20
+
+#UpdateServer=<path_to_local_ssc_if_desired>
+#MigrateSCA=0
+#UpdateProxyServer=<proxy_server>
+#UpdateProxyHost=<proxy_port_number>a
+
+#component installation
+#enable-components=AWB_group
+#available components
+#AWB_group,CustomRulesEditor,ProcessDesigner,fprFileAssociate,Plugins_group,Eclipse,EclipseRem,VS2012,VS2012Scan,VS2012Rem,VS2013,VS2013Scan,VS2013Rem,VS2015,VS2015Scan,VS2015Rem
